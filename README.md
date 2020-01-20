@@ -12,4 +12,4 @@
 # How to Install Options</br>
 - run the "set up" exe file </br>
 - run off Visual Studios</br>
-###*Must Have Monogame Installed*
+### *Must Have Monogame Installed*
